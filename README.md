@@ -23,7 +23,7 @@ Este es un repositorio **público** donde cualquiera puede **subir o descargar p
 2. Mantener los archivos organizados en la carpeta correcta según la versión y el tipo.  
 3. Incluir un archivo `LICENSE` para cada plugin/mod que subas.  
 
-##IMPORTANTE
+## IMPORTANTE
 
 !Y RECUERDA¡ Revisamos diariamente los repositorios en busca de archivos erroneos.
 
