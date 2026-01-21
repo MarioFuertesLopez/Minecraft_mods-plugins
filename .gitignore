@@ -11,7 +11,7 @@ dist/
 target/
 out/
 
-# Dependencias (por si alguien usa Node para algún mod/plugin)
+# Dependencias (si alguien usa Node para algún mod/plugin)
 node_modules/
 
 # Archivos temporales de IDEs
