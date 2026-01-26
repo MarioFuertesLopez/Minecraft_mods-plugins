@@ -211,7 +211,21 @@ Este repositorio está bajo licencia **MIT**. Los mods individuales pueden tener
 **Licencia MIT:** Puedes usar, copiar, modificar y distribuir este repositorio libremente, siempre que incluyas el aviso de copyright original.
 
 ---
+## FAQ - Preguntas frecuentes
 
+### ¿Puedo mezclar mods de Fabric y NeoForge?
+No. Fabric y NeoForge son incompatibles entre sí. Debes elegir uno u otro.
+
+### ¿Funcionan estos mods en Bedrock Edition?
+No. Este repositorio solo contiene mods para Java Edition. Bedrock Edition tiene limitaciones técnicas para mods.
+
+### ¿Cómo sé si un mod necesita otros mods para funcionar?
+Revisa el README en la carpeta del mod. Las dependencias están listadas claramente.
+
+### ¿Los mods afectan el rendimiento?
+Algunos mods lo mejoran (Sodium, Lithium) y otros pueden reducirlo. Lee la descripción de cada mod.
+
+---
 ## Soporte
 
 ¿Tienes problemas o preguntas?
