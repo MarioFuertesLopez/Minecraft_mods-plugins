@@ -55,6 +55,7 @@ Antes de descargar mods, hay que entender qué "loader" (cargador de mods) usar.
 - **Instalación:** Descarga el instalador desde [neoforged.net](https://neoforged.net)
 
 **Nota importante:** Fabric y NeoForge NO son compatibles entre sí. Los mods de Fabric no funcionan en NeoForge y viceversa.
+**Nota:** Para usar shaders, necesitarás OptiFine o Iris Shaders instalado.
 
 ---
 
