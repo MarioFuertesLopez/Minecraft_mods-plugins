@@ -11,9 +11,6 @@ Este es un repositorio **público** donde cualquiera puede **subir o descargar p
   - Fabric
   - NeoForge
   - Shaders
-- `Bedrock/` → Mods/plugins para la edición Bedrock, separados por versión y tipo:
-  - Vanilla
-  - Shaders
 - Cada plugin/mod puede incluir su propio archivo `LICENSE`.
 - Licencia principal del repositorio: **MIT**.
 
@@ -25,6 +22,6 @@ Este es un repositorio **público** donde cualquiera puede **subir o descargar p
 
 ## IMPORTANTE
 
-!Y RECUERDA¡ Revisamos diariamente los repositorios en busca de archivos erróneos.
+¡Y RECUERDA! Revisamos diariamente los repositorios en busca de archivos erróneos.
 
 ¡Disfruta y comparte de manera responsable!
