@@ -1,1 +1,0 @@
-# Minecraft Java 1.0 – 1.5
