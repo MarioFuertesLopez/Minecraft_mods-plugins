@@ -1,6 +1,6 @@
 ### NeoForge
 
-NeoForge es un fork de Forge que surgió en 2023. Es el sucesor espiritual de Forge y está disponible solo para versiones 1.20 en adelante.
+NeoForge es un fork de Forge que surgió en 2023. Es el sucesor de Forge y está disponible solo para versiones 1.20 en adelante.
 
 **Características:**
 - Sucesor de Forge con mejor rendimiento
