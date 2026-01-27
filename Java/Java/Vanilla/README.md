@@ -1,5 +1,7 @@
 # Vanilla
 
+**Aviso:** Esta sección está en construcción. Próximamente añadiremos contenido.
+
 Minecraft Vanilla no soporta mods (.jar). Sin embargo, puedes usar:
 
 - **Datapacks** - Modifican recetas, loot tables, estructuras y mecánicas del juego
