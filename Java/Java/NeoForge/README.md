@@ -11,6 +11,3 @@ NeoForge es un fork de Forge que surgió en 2023. Es el sucesor espiritual de Fo
 **Nota importante:** Para versiones anteriores a 1.20 (como 1.19, 1.18, etc.), el loader equivalente era **Forge**. NeoForge no existe para esas versiones. Si necesitas mods de Forge para versiones antiguas, puedes solicitarlos creando un Issue.
 ```
 
-**Paso 5:** Commit message:
-```
-[Docs] Aclarar diferencia entre Forge y NeoForge en README
